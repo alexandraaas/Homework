@@ -1,0 +1,28 @@
+.gold {
+  color: rgb(255, 153, 0);
+}
+.red {
+  color: rgb(228, 22, 56);
+}
+.white {
+  color: rgb(235, 235, 235);
+}
+.star,
+.heart {
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.btn {
+  border-radius: 0%;
+  top: 0%;
+  padding-left: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 25px;
+}
+.card-img-top {
+  max-width: 415px;
+  max-width: 415px;
+  object-fit: scale-down;
+}
